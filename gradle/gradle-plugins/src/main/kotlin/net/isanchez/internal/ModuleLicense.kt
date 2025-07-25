@@ -1,8 +1,8 @@
 package net.isanchez.internal
 
-import gradle.kotlin.dsl.accessors._6f1d895e4ff0feb363bc3049591a0b63.jar
-import gradle.kotlin.dsl.accessors._6f1d895e4ff0feb363bc3049591a0b63.main
-import gradle.kotlin.dsl.accessors._6f1d895e4ff0feb363bc3049591a0b63.sourceSets
+import gradle.kotlin.dsl.accessors._de80ab33f88f607dadeffc96145202df.jar
+import gradle.kotlin.dsl.accessors._de80ab33f88f607dadeffc96145202df.main
+import gradle.kotlin.dsl.accessors._de80ab33f88f607dadeffc96145202df.sourceSets
 import org.gradle.api.Project
 import org.gradle.api.tasks.bundling.Jar
 import org.gradle.kotlin.dsl.invoke

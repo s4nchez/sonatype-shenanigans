@@ -17,6 +17,6 @@ plugins {
     id("de.fayard.refreshVersions") version "0.60.5"
 }
 
-include(":app")
-include(":utils")
+include(":sonatype-shenanigans-1")
+include(":sonatype-shenanigans-2")
 
